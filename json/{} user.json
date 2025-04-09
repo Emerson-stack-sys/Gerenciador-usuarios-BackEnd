@@ -1,0 +1,21 @@
+{
+     "nome": "Emerson",
+     "idade": 37,
+     "filhos": [
+          "isabela",
+          "valentina"
+     ],
+     "hobbies": [
+          "Violão",
+          "leitura",
+          "video game"
+     ],
+     "casado": true,
+     "empresas": {
+          "nome": "sotw84",
+          "colaboradores": 1
+     },
+     "sotw84 sist": {
+          "fundada": 2025
+     }
+}

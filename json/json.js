@@ -1,0 +1,4 @@
+/*
+ TRATAMENTO DE ERROS ( TRY CATCH)
+
+*/
