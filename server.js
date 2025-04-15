@@ -72,6 +72,7 @@ app.put("/usuarios/:id", async (req, res) => {
 
 // rota para deletar um novo usuario
 app.delete("/usuarios/:id", async (req, res) => {
+
      await prisma.user.delete({
           where: {
                id: req.params.id,
@@ -96,7 +97,6 @@ get pull buscar
 */
 // req é a requisição e o res é a resposta são o metodo do express 
 // http://localhost:3000/usuarios
-//emersonfilgueira8
 //admin123
 //emersonfilgueira8:<db_password>@users.zg1z4.mongodb.net/?
 
