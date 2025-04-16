@@ -66,6 +66,11 @@ Este projeto é um gerenciador de usuários desenvolvido com foco em back-end, u
 <br>
 <div>
   <div class="section-title">🖥 Tela do Projeto Rodando no Notebook</div>
+   <div class="image-group">
+    <img src="https://raw.githubusercontent.com/Emerson-stack-sys/Gerenciador-usuarios-BackEnd/68453719837bed383c98d59c910ec73968e193f7/docs/Design%20sem%20nome%20(1).png" alt="Notebook" width="400" />
+    <img src="https://raw.githubusercontent.com/Emerson-stack-sys/Gerenciador-usuarios-BackEnd/68453719837bed383c98d59c910ec73968e193f7/docs/Design%20sem%20nome%20(2).png" alt="Notebook" width="400" />
+  </div>
+</div>
   <br>
  
 <br>
